@@ -1,0 +1,24 @@
+{
+    "Thinking": "OFF",
+    "model": "glm-4.7",
+    "models": [
+        "glm-4.7",
+        "glm-5"
+    ],
+    "max_tokens": 120000,
+    "Ultrathink": "OFF",
+    "Streaming": "ON",
+    "timeout": 10,
+    "retry_attempts": 3,
+    "log_level": "INFO",
+    "log_file": "api_requests.log",
+    "max_connections": 5,
+    "default_theme": "retroAnother.json",
+    "endpoint": "https://api.z.ai/api/paas/v4/",
+    "endpoints": {
+        "regular": "https://api.z.ai/api/paas/v4/",
+        "code": "https://api.z.ai/api/coding/paas/v4",
+        "token": "https://api.z.ai/api/monitor/usage/quota/limit",
+        "model": "https://api.z.ai/api/monitor/usage/model-usage"
+    }
+}
