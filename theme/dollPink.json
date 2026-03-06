@@ -1,0 +1,21 @@
+{
+    "theme": "dollPink",
+    "simple": "yes",
+    "arrayOfColors": [
+        "#d25099",
+        "#3B2A2A", 
+        "#87ced0",
+        "#f9dd9a", 
+        "#7c579e"
+    ],
+    "opacity": 1.0,
+    "headings": [
+        "#d25099",
+        "#e16aad", 
+        "#f4a2d0",
+        "#f9dd9a", 
+        "#7c579e"
+    ],
+    "t_type": "matrix",
+    "font" : "Arial"
+}

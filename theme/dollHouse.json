@@ -1,0 +1,28 @@
+{
+    "theme": "dollPinkFull",
+    "simple": "no",
+    "headings":[
+        "#d25099",
+        "#e16aad", 
+        "#f4a2d0",
+        "#f9dd9a", 
+        "#7c579e"
+    ],
+    "bg_rightpanel": "#d25099",
+    "console_bg": "#3B2A2A",
+    "console_fg": "aqua",
+    "button_fg": "#3B2A2A",
+    "button_bg": "light yellow",
+    "button_icon": "light yellow", 
+    "button_border": "#000000",
+    "opacity": 0.9,
+    "t_type": "inverse",
+    "not_type": "inverse",
+    "prompt_fg":"#3B2A2A", 
+    "prompt_bg":"aqua",
+    "listbox_fg": "#3B2A2A",
+    "listbox_bg": "aqua",
+    "label_fg": "#3B743B",
+    "label_bg": "#000000",
+    "font" : "Comic Sans MS"
+}

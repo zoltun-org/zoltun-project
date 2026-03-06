@@ -1,0 +1,21 @@
+{
+    "theme":"joker",
+    "simple": "yes",
+    "arrayOfColors": [
+        "#be80ff",
+        "#c5c5c5",
+        "#062e03",
+        "#1ddd33", 
+        "#1da11f"
+    ],
+    "opacity": 1.0,
+    "headings": [
+        "#ab5dee",
+        "#ab5dee",
+        "#ab5dee",
+        "#ab5dee",
+        "#ab5dee" 
+    ],
+    "t_type": "inverse",
+    "font" : "Comic Sans MS"
+}

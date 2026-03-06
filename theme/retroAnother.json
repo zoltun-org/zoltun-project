@@ -1,0 +1,22 @@
+{
+    "theme": "matrix",
+    "simple": "no",
+    "headings":["#00FF00", "#00FF00", "#00FF00", "#00FF00", "#00FF00"],
+    "bg_rightpanel": "#000000",
+    "console_bg": "#001f00",
+    "console_fg": "#00FF00",
+    "button_fg": "#001f00",
+    "button_bg": "#a4f644",
+    "button_icon": "#a4f644", 
+    "button_border": "#000000",
+    "opacity": 0.9,
+    "t_type": "matrix",
+    "not_type": "inverse",
+    "prompt_fg":"#001f00", 
+    "prompt_bg":"#00FF00",
+    "listbox_fg": "#00FF00",
+    "listbox_bg": "#001f00",
+    "label_fg": "#3B743B",
+    "label_bg": "#000000",
+    "font" : "Arial"
+}

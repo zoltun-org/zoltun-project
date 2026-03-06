@@ -1,0 +1,22 @@
+{
+    "theme": "generic",
+    "simple": "yes",
+    "arrayOfColors": [
+        "#111111",
+        "black", 
+        "yellow", 
+        "yellow", 
+        "yellow" 
+  
+    ],
+    "opacity": 0.8,
+    "headings": [
+        "#FFED29",
+        "#FFED29",
+        "#FFED29",
+        "#FFED29",
+        "#FFED29"              
+],
+    "t_type": "inverse",
+    "font" : "Arial"
+}

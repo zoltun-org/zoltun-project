@@ -1,0 +1,22 @@
+{
+    "theme": "aquatic",
+    "simple": "no",
+    "headings":["#7FDBFF", "#39CCCC", "#3D9970", "#2ECC40", "#01FF70"],
+    "bg_rightpanel": "#7FDBFF",
+    "console_bg": "#39CCCC",
+    "console_fg": "#3D9970",
+    "button_fg": "#39CCCC",
+    "button_bg": "#964B00",
+    "button_icon": "#3D9970", 
+    "button_border": "#001f00",
+    "opacity": 0.9,
+    "t_type": "inverse",
+    "not_type": "matrix",
+    "prompt_fg":"#39CCCC", 
+    "prompt_bg":"#3D9970",
+    "listbox_fg": "#39CCCC",
+    "listbox_bg": "#3D9970",
+    "label_fg": "#39CCCC",
+    "label_bg": "#7FDBFF",
+    "font" : "Arial"
+}

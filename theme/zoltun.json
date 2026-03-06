@@ -1,0 +1,22 @@
+{
+    "simple": "yes",
+    "arrayOfColors": [
+        "#111111",
+        "black", 
+        "yellow", 
+        "yellow", 
+        "yellow" 
+  
+    ],
+    "opacity": 0.8,
+    "headings": [
+        "lightyellow",
+        "lightyellow",
+        "lightyellow",
+        "lightyellow",
+        "lightyellow"              
+],
+    "t_type": "inverse",
+    "theme" : "zoltun",
+    "font" : "Courier"
+}
