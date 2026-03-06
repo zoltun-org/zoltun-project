@@ -1,0 +1,18 @@
+{
+    "Client_Api": "ZaiClient",
+    "Model": "glm-4.7",
+    "Thinking": "OFF",
+    "Ultrathink": "OFF",
+    "Streaming": "ON",
+    "base_url": "https://api.example.com",
+    "api_key": "your_api_key_here",
+    "timeout": 10,
+    "retry_attempts": 3,
+    "log_level": "INFO",
+    "log_file": "api_requests.log",
+    "max_connections": 5,
+    "max_tokens": 4096,
+    "temperature": 1.0,
+    "role": "system",
+    "content":"You are a helpful assistant."
+}
